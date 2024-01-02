@@ -26,6 +26,9 @@ Route::get('/blog', function () {
 Route::get('/about', function () {
     return view('frontend.about');
 });
+Route::get('/about', function () {
+    return view('frontend.contact');
+});
 
 // Backend
 Route::get('/admin', function () {

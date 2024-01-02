@@ -66,11 +66,11 @@
                         <div class="header__menu main-menu text-center">
                            <nav id="mobile-menu">
                               <ul>
-                                 <li class="has-dropdown has-homemenu">
+                                 <li>
                                     <a href="/">Home</a>
                                  </li>
                                  <li class="has-dropdown has-megamenu" >
-                                    <a href="course-grid.html">Shop</a>
+                                    <a href="/shop">Shop</a>
                                     <ul class="sub-menu mega-menu" data-background="assets/img/banner/mega-menu-shop-1.jpg">
                                        <li>
                                           <a  class="mega-menu-title">Shop layout</a>
@@ -117,14 +117,8 @@
                                        </li>
                                     </ul>
                                  </li>
-                                 <li class="has-dropdown">
-                                    <a href="blog.html">Blog</a>
-                                    <ul class="sub-menu">
-                                       <li><a href="blog.html">Big image</a></li>
-                                       <li><a href="blog-right-sidebar.html">Right sidebar</a></li>
-                                       <li><a href="blog-left-sidebar.html">Left sidebar</a></li>
-                                       <li><a href="blog-details.html">Single Post</a></li>
-                                    </ul>
+                                 <li>
+                                    <a href="/blog">Blog</a>
                                  </li>
                                  <li class="has-dropdown">
                                     <a href="about.html">Pages</a>
