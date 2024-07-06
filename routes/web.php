@@ -34,3 +34,6 @@ Route::get('/about', function () {
 Route::get('/admin', function () {
     return view('backend.dashboard');
 });
+Route::get('/login', function () {
+    return view('backend.auth.login');
+});

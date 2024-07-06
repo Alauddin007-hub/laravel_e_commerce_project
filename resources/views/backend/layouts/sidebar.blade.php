@@ -290,7 +290,7 @@
 
             <!-- Color Themes -->
             <!-- Preview a theme on a page functionality can be found in js/app.js - colorThemePreview() -->
-            <div class="sidebar-section sidebar-nav-mini-hide">
+            <!-- <div class="sidebar-section sidebar-nav-mini-hide">
                 <div class="sidebar-separator push">
                     <i class="fa fa-ellipsis-h"></i>
                 </div>
@@ -429,7 +429,7 @@
                         </a>
                     </li>
                 </ul>
-            </div>
+            </div> -->
             <!-- END Color Themes -->
         </div>
         <!-- END Sidebar Content -->
@@ -438,15 +438,6 @@
 
     <!-- Sidebar Extra Info -->
     <div id="sidebar-extra-info" class="sidebar-content sidebar-nav-mini-hide">
-        <div class="push-bit">
-            <span class="pull-right">
-                <a href="javascript:void(0)" class="text-muted"><i class="fa fa-plus"></i></a>
-            </span>
-            <small><strong>78 GB</strong> / 100 GB</small>
-        </div>
-        <div class="progress progress-mini push-bit">
-            <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100" style="width: 78%"></div>
-        </div>
         <div class="text-center">
             <small>Crafted with <i class="fa fa-heart text-danger"></i> by <a href="https://1.envato.market/ydb" target="_blank">pixelcave</a></small><br>
             <small><span id="year-copy"></span> &copy; <a href="https://1.envato.market/DXa" target="_blank">AppUI 2.9</a></small>
